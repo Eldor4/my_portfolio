@@ -1,0 +1,15 @@
+{
+  "name": "new-portfolio",
+  "version": "1.0.0",
+  "description": "new-portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Eldor ziv",
+  "license": "MIT",
+  "dependencies": {
+    "font-mfizz": "^2.4.1",
+    "node-sass": "^6.0.1"
+  }
+}
