@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "new-portfolio",
   "main": "index.js",
-  "homepage": "https://Eldor4.github.io/My_portfolio",
+  "homepage": "https://Eldor4.github.io/my_portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
